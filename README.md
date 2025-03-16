@@ -7,14 +7,13 @@
 
 
 
-         
-A seguir apresento, uma análise detalhada do **diagrama de entidade-relacionamento do ecommerce,** considerando as entidades e atributos descritos:
-
-
-**A imagem a seguir mostra todas as Entidades do projeto de Banco de Dados Ecommerce e seus devidos Relacionamentos.*
+**A imagem a seguir mostra o diagrama de entidade de relacionamento, com todas as Entidades do projeto de Banco de Dados Ecommerce e seus devidos Relacionamentos.*
 
 ![Screenshot_20250315-224028](https://github.com/user-attachments/assets/4d5cf73f-fee3-43b4-8937-4fccc41adbae)
 
+
+
+A seguir apresento, uma análise detalhada do **diagrama de entidade-relacionamento do ecommerce,** considerando as entidades e atributos descritos: 
 
 
 ## 1. Entidade Fornecedor
@@ -236,9 +235,11 @@ Ao relacionar itens do pedido com registros específicos de estoque (via idEstoq
 
 ## Modularidade:
 
-O diagrama evidencia uma estrutura modular e bem definida, na qual cada entidade cumpre um papel específico dentro do processo de venda online, contribuindo para um sistema robusto e escalável.
+Esse diagrama evidencia uma estrutura modular e bem definida, na qual cada entidade cumpre um papel específico dentro do processo de venda online, contribuindo para um sistema robusto e escalável.
 
 
-Esta modelagem ER contempla os principais aspectos de um ecommerce, desde a aquisição dos produtos junto aos fornecedores até a entrega e o pagamento final pelo cliente. Cada entidade foi definida com atributos específicos que, combinados, possibilitam um gerenciamento completo do ciclo de vida de uma venda, garantindo rastreabilidade, integridade dos dados e suporte a operações complexas do negócio.
+Esta modelagem ER contempla os principais aspectos de um ecommerce, desde a aquisição dos produtos junto aos fornecedores até a entrega e o pagamento final pelo cliente.
+
+Cada entidade foi definida com atributos específicos que, combinados, possibilitam um gerenciamento completo do ciclo de vida de uma venda, garantindo rastreabilidade, integridade dos dados e suporte a operações complexas do negócio.
 
 
