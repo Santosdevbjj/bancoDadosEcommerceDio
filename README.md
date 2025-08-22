@@ -1,13 +1,15 @@
-# Projeto Banco Dados Ecommerce 
+# Desafio de Projeto: Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
 
-![Screenshot_20250316-134341](https://github.com/user-attachments/assets/5d016b84-4322-4766-acfa-088812899eba)
+---
+
+<img width="794" height="864" alt="Screenshot_20250822-155554" src="https://github.com/user-attachments/assets/12026176-212d-4f03-9aef-26f9aabb5131" />
+
+---
+
+**Bootcamp Heineken - Inteligência Artificial Aplicada a Dados com Copilot - ministrado pela DIO.me**
 
 
-**Este projeto faz parte do Bootcamp Heineken - Inteligência Artificial Aplicada a Dados com Copilot.** **Parceria Heineken e Dio**
-
-
-
-**A imagem a seguir mostra o diagrama de entidade de relacionamento, com todas as Entidades do projeto de Banco de Dados Ecommerce e seus devidos Relacionamentos.*
+**O diagrama a seguir mostra as entidade de relacionamento, com todas as Entidades do projeto de Banco de Dados Ecommerce e seus devidos Relacionamentos.**
 
 ![Screenshot_20250315-224028](https://github.com/user-attachments/assets/4d5cf73f-fee3-43b4-8937-4fccc41adbae)
 
