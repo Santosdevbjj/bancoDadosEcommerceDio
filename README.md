@@ -8,6 +8,7 @@
 
 **Bootcamp Heineken - Inteligência Artificial Aplicada a Dados com Copilot - ministrado pela DIO.me**
 
+--- 
 
 **O diagrama a seguir mostra as entidade de relacionamento, com todas as Entidades do projeto de Banco de Dados Ecommerce e seus devidos Relacionamentos.**
 
