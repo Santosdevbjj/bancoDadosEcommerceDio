@@ -245,4 +245,13 @@ Esta modelagem ER contempla os principais aspectos de um ecommerce, desde a aqui
 
 Cada entidade foi definida com atributos específicos que, combinados, possibilitam um gerenciamento completo do ciclo de vida de uma venda, garantindo rastreabilidade, integridade dos dados e suporte a operações complexas do negócio.
 
+---
+
+[![Portfólio Sérgio Santos](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://santosdevbjj.github.io/portfolio/)
+[![LinkedIn Sérgio Santos](https://img.shields.io/badge/LinkedIn-Sérgio_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santossergioluiz) 
+
+--- 
+
+
+
 
